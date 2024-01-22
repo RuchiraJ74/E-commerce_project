@@ -1,0 +1,29 @@
+*{
+	scroll-behavior: smooth;
+}
+
+#artlogo{
+	margin-left: 100px;
+	border-width: 20px;
+}
+
+#products{
+	height: 400px;
+}
+
+.footer_title{
+  a {
+    color: var(--bs-body-color);
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+      color: var(--bs-link-hover-color);
+      text-decoration: underline;
+    }
+  }
+}
+
+
+
+
